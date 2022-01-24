@@ -1,4 +1,4 @@
-# Livro de receitas
+# Vida, Ah! minha vida
 
 ## Memórias póstumas de brás cubas
 
@@ -25,5 +25,3 @@
 ###### Ainda que desolado, o casal se encontra às escondidas numa casa alugada para esse propósito. Nesse momento podemos notar a presença de Dona Plácida, empregada de Virgília e que encobre todos os encontros da adúltera.
 
 ###### Por fim, Brás Cubas entra para a política e mesmo desenvolvendo um trabalho medíocre essa posição lhe oferece certo “status”, num mundo onde a aparência era o mais louvável.
-
-
